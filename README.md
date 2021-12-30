@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently working on [SvelteKit](https://kit.svelte.dev). As of 2021, it's been downloaded more than 10m times. [Check it out](https://kit.svelte.dev) to quickly build easily understandable and performant web apps.
+
 <!--
 **benmccann/benmccann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
