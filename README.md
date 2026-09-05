@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm currently working on [SvelteKit](https://kit.svelte.dev). [Check it out](https://kit.svelte.dev) to quickly build easily understandable and performant web apps.
+I'm currently working on [Zenos](https://www.zenos.com/) - a stealth startup in the AI and robotics space. My previous AI startup, [Connectifier](https://en.wikipedia.org/wiki/Connectifier), was acquired by LinkedIn.
+
+In the open source world I'm best known for my hobby projects - such as being a creator of [SvelteKit](https://kit.svelte.dev), which now powers highly visited sites such as Qwen AI, Z.ai, and Yahoo Finance. [Check it out](https://kit.svelte.dev) to quickly build easily understandable and performant web apps. I've also acted as a maintainer of data libraries [Tablesaw](https://github.com/jtablesaw/tablesaw) and [Chart.js](https://www.chartjs.org/).
 
 <!--
 **benmccann/benmccann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
